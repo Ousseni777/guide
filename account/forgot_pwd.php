@@ -37,7 +37,7 @@
 
 
     <div class="left" style="height: 100vw;">
-        <h1>Welcome to Water, Energy, Food NEXUS Innovation Week « Paving the Way Towards Entrepreneurship </h1>
+        <h1>Welcome to Water, Energy, Food NEXUS Innovation_ Week « Paving the Way Towards Entrepreneurship </h1>
         <div class="image">
             
         </div>
